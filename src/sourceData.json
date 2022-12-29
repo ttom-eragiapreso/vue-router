@@ -1,0 +1,20 @@
+[
+  {
+    "name" : "Charmander",
+    "img" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
+    "description" : "Charmander è un Pokémon di tipo fuoco, introdotto in prima generazione. Si evolve in Charmeleon a partire dal livello 16 e quindi in Charizard a partire dal livello 36. Insieme a Bulbasaur e Squirtle, Charmander è uno dei tre Pokémon iniziali di Kanto disponibili, in Pokémon Rosso e Verde, Pokémon Blu, Pokémon Rosso Fuoco e Verde Foglia.",
+    "id" : 0
+  },
+  {
+    "name" : "Bulbasaur",
+    "img" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png",
+    "description" : "Bulbasaur è un Pokémon di tipo Erba/Veleno, introdotto in prima generazione. Si evolve in Ivysaur a partire dal livello 16 e quindi in Venusaur a partire dal livello 36. Insieme a Charmander e Squirtle, Bulbasaur è uno dei tre Pokémon iniziali di Kanto disponibili, in Pokémon Rosso e Verde, Pokémon Blu, Pokémon Rosso Fuoco e Verde Foglia.",
+    "id" : 1
+  },
+  {
+    "name" : "Squirtle",
+    "img" : "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
+    "description" : "Squirtle è un Pokémon di tipo Acqua, introdotto in prima generazione. Si evolve in Wartortle a partire dal livello 16 e quindi in Blastoise a partire dal livello 36. Insieme a Bulbasaur e Charmander, Squirtle è uno dei tre Pokémon iniziali di Kanto disponibili, in Pokémon Rosso e Verde, Pokémon Blu, Pokémon Rosso Fuoco e Verde Foglia.",
+    "id" : 2
+  }
+]
